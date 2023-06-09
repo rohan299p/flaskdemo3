@@ -1,0 +1,5 @@
+pip install flask
+pip install openai
+pip install pinecone-client
+pip install pypdf
+pip install langchain
